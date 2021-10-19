@@ -216,6 +216,11 @@ li {
 }
 
 @media only screen and (max-width:485px) {
+   
+     main {
+        height: 100vh;
+    }
+    
     .content-left img {
         width: 15rem;
     }
